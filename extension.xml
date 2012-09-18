@@ -6,7 +6,7 @@
         <copyright>Copyright (C) 2012 Logica WebFactory. All rights reserved.</copyright>
         <license>GNU General Public License v2.0</license>
     </metadata>
-	
+
 	<software>
 		<uses>
 			<name>APC</name>
@@ -15,5 +15,5 @@
 			<info_url>http://pecl.php.net/package/APC</info_url>
 			<version>3.1.13</version>
 		</uses>
-	<software>
+	</software>
 </software>
