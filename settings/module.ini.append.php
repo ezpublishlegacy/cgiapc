@@ -1,7 +1,7 @@
 <?php /* #?ini charset="utf-8"?
 
 [ModuleSettings]
-ExtensionRepositories[]=logicaapc
-ModuleList[]=logicaapc
+ExtensionRepositories[]=cgiapc
+ModuleList[]=cgiapc
 
 */ ?>

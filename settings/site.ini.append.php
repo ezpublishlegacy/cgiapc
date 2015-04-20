@@ -1,6 +1,6 @@
 <?php /*
 
 [RegionalSettings]
-TranslationExtensions[]=logicaapc
+TranslationExtensions[]=cgiapc
 
 */ ?>

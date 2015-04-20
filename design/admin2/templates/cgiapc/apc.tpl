@@ -2,7 +2,7 @@
 
 {* DESIGN: Header START *}<div class="box-header"><div class="box-ml">
 
-<h1 class="context-title">{'APC monitoring'|i18n( 'design/admin/logicaapc/apc' )}</h1>
+<h1 class="context-title">{'APC monitoring'|i18n( 'design/admin/cgiapc/apc' )}</h1>
 
 {* DESIGN: Mainline *}<div class="header-mainline"></div>
 
@@ -10,7 +10,7 @@
 
 {* DESIGN: Content START *}<div class="box-ml"><div class="box-mr"><div class="box-content">
 
-<iframe id="apciFrame" src={'logicaapc/apc.php'|ezurl()} style="display: block; border: none; width: 100%; height: 500px"></iframe>
+<iframe id="apciFrame" src={'cgiapc/apc.php'|ezurl()} style="display: block; border: none; width: 100%; height: 500px"></iframe>
 {literal}<script type="text/javascript">$('#apciFrame').load(function () {
     /* Monitor use absolute :( */
     $height = $(this).contents().find(".head").height() +

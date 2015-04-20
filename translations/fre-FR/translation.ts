@@ -1,6 +1,6 @@
 <!DOCTYPE TS><TS>
 <context>
-    <name>design/admin/logicaapc/apc</name>
+    <name>design/admin/cgiapc/apc</name>
     <message>
         <source>APC monitoring</source>
         <translation>Monitoring APC</translation>
@@ -8,7 +8,7 @@
 </context>
 
 <context>
-    <name>logicaapc/apc</name>
+    <name>cgiapc/apc</name>
     <message>
         <source>APC monitoring</source>
         <translation>Monitoring APC</translation>
